@@ -5,13 +5,13 @@ An initial Project with springmvc, mybatis, thymeleaf, spring-security, Druid, j
 
 Annotation configuration only, no xml files.
 
-Including both login and sign up function, databse structure is as follow.
+Including both login and sign up functions, database structure is as follow.
 
 Table:
 
 -tb_user
 
-FILED:
+Field:
 
 -userId, INT(11)
 
